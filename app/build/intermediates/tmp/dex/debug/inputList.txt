@@ -1,0 +1,2 @@
+/Users/phynet/Documents/Desarrollo/BDD MIMO/Code/binary/Heroes-Android-Calabash-Example/app/build/intermediates/classes/debug
+/Users/phynet/Documents/Desarrollo/BDD MIMO/Code/binary/Heroes-Android-Calabash-Example/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-2ae8783caf7f0764d4bc4047780dee0fa72ce8b4.jar

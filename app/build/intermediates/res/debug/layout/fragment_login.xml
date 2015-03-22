@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.bddtest.LoginActivity$PlaceholderFragment"
+    android:background="#E0F2F7">
+	
+    <TextView
+        android:id="@+id/loginTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="100dp"
+        android:text="@string/loginTitle"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        />
+    
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/username"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/loginTitle"
+        android:text="bdd"/>
+    
+    <EditText android:id="@+id/password"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:layout_below="@id/username"
+        android:layout_centerHorizontal="true"
+        android:text="bdd"/>
+    
+    <Button android:id="@+id/login"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:onClick="login"
+        android:layout_below="@id/password"
+        android:layout_centerHorizontal="true"
+        android:text="@string/login"/>
+    
+
+</RelativeLayout>
+<!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary/Heroes-Android-Calabash-Example/app/src/main/res/layout/fragment_login.xml -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BDDTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="loginTitle">BDD Test</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Name_">Name:</string>
+    <string name="Home_">Home:</string>
+    <string name="Power_">Powers:</string>
+    <string name="title_activity_deatil">SuperHeroe</string>
+
+</resources>
