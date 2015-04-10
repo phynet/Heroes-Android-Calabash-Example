@@ -39,8 +39,8 @@ public final class R {
         public static final int panelHeroePower=0x7f070008;
         public static final int password=0x7f07000d;
         public static final int superHeroes=0x7f070010;
-        public static final int tableTitle=0x7f07000f;
         public static final int username=0x7f07000c;
+        public static final int viewDashboard=0x7f07000f;
     }
     public static final class layout {
         public static final int activity_deatil=0x7f030000;
