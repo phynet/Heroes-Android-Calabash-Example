@@ -2,9 +2,9 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent" >
 
-       <TextView android:id="@+id/tableTitle"
+       <TextView android:id="@+id/viewDashboard"
            android:layout_width="match_parent"
-           android:text="Super Hero Names"
+           android:text="Superheroes List"
            android:background="@android:color/black"
            android:textColor="@android:color/white"
            android:textSize="24dp"
@@ -14,7 +14,7 @@
 
     <ScrollView android:layout_height="wrap_content"
         android:layout_width="match_parent" 
-        android:layout_below="@id/tableTitle">
+        android:layout_below="@id/viewDashboard">
         <TableLayout
             android:id="@+id/superHeroes"
             android:layout_width="fill_parent"

@@ -37,8 +37,8 @@ public class LoginActivity extends Activity {
 
 	private void showErrorLogin() {
 		AlertDialog errorDialog = new AlertDialog.Builder(this).create();
-		errorDialog.setTitle("Login");
-		errorDialog.setMessage("Wrong user or password");
+        errorDialog.setTitle("Error in Login");
+        errorDialog.setMessage("Ups! your user or password is wrong. Try again.");
 		errorDialog.setIcon(android.R.drawable.ic_dialog_alert);
 		errorDialog.setCanceledOnTouchOutside(false);
 		errorDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "Close", new DialogInterface.OnClickListener() {
@@ -50,7 +50,7 @@ public class LoginActivity extends Activity {
 	}
 	
 	private final static String USERNAME = "bdd";
-	private final static String PASSWORD = "bdd";
+	private final static String PASSWORD = "1234";
 	
 	/**
 	 * A placeholder fragment containing a simple view.

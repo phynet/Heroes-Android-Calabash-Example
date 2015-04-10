@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary/Heroes-Android-Calabash-Example/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary-calabash/android/Heroes-Android-Calabash-Example.git/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary/Heroes-Android-Calabash-Example/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary-calabash/android/Heroes-Android-Calabash-Example.git/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="Home_">Home:</string>
     <string name="Name_">Name:</string>
@@ -17,7 +17,7 @@
     <string name="title_activity_deatil">SuperHeroe</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="username">username</string>
-    <!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary/Heroes-Android-Calabash-Example/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary-calabash/android/Heroes-Android-Calabash-Example.git/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

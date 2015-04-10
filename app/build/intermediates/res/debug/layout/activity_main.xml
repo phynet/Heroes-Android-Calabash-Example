@@ -5,4 +5,4 @@
     android:layout_height="match_parent"
     tools:context="com.example.bddtest.MainActivity"
     tools:ignore="MergeRootFrame" />
-<!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary/Heroes-Android-Calabash-Example/app/src/main/res/layout/activity_main.xml -->
+<!-- From: file:/Users/phynet/Documents/Desarrollo/BDD%20MIMO/Code/binary-calabash/android/Heroes-Android-Calabash-Example.git/app/src/main/res/layout/activity_main.xml -->
